@@ -65,8 +65,3 @@ may be added here as appropriate.
 [<img height="64px" src="https://hsds.ac.uk/wp-content/uploads/2024/09/HSDS_Blue-and-black_1920px.png" alt="HSDS Logo">](https://hsds.ac.uk/)<br/>
 * [HSDS is a project funded by UK Research and Innovation (UKRI) as part of the RICHeS Programme.](https://www.riches.ukri.org/)
 
----
-
-## License
-
-MIT License (see `LICENSE`).
