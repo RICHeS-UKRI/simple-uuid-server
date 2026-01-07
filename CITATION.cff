@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Simple UUID Server"
+message: >
+  If you use this software in a research or infrastructure context,
+  please cite it using the information below.
+type: software
+
+authors:
+  - family-names: Padfield
+    given-names: Joseph
+    affiliation: National Gallery, London
+    affiliation-identifiers:
+      - https://ror.org/043kfff89
+
+abstract: >
+  A lightweight Python service for minting and retrieving stable UUIDs
+  for research and heritage science infrastructure. The software was
+  developed to support consistent identification of entities across
+  distributed systems and repositories.
+
+repository-code: "https://github.com/RICHeS-UKRI/simple-uuid-server"
+license: MIT
+
+funding:
+  - name: Arts and Humanities Research Council (AHRC)
+    identifier: https://ror.org/0505m1554
+    award: >
+      RICHeS – Research Infrastructure for Conservation and Heritage Science
+      (including the Heritage Science Data Service project)
+  - name: UK Research and Innovation (UKRI)
+    identifier: https://ror.org/001aqnf71
+
+references:
+  - type: website
+    title: Heritage Science Data Service (HSDS)
+    url: https://hsds.ac.uk/
+  - type: website
+    title: RICHeS Programme
+    url: https://www.riches.ukri.org/
