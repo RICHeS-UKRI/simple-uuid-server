@@ -61,6 +61,10 @@ This project has been developed within the context of collaborative heritage sci
 and research infrastructure work. Specific acknowledgements, funders, and partners
 may be added here as appropriate.
 
+### The [UKRI RICHeS](https://www.riches.ukri.org/) [HSDS](https://hsds.ac.uk/) project
+[<img height="64px" src="https://hsds.ac.uk/wp-content/uploads/2024/09/HSDS_Blue-and-black_1920px.png" alt="HSDS Logo">](https://hsds.ac.uk/)<br/>
+* [HSDS is a project funded by UK Research and Innovation (UKRI) as part of the RICHeS Programme.](https://www.riches.ukri.org/)
+
 ---
 
 ## License
