@@ -2,6 +2,8 @@
 
 This directory contains documentation for the **Simple UUID Server**.
 
+New users should typically start with **INSTALL.md**, followed by **USAGE.md**.
+
 ## Contents
 
 - **[INSTALL.md](INSTALL.md)**  
