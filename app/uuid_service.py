@@ -1,6 +1,6 @@
 import os
 from flask import Flask, request, jsonify, abort, render_template, Response
-from uuid_registry_sqlite import generate_or_get_uuid  # your SQLite function
+from .uuid_registry_sqlite import generate_or_get_uuid  # your SQLite function
 
 API_KEY = os.environ.get("UUID_SERVICE_API_KEY")
 app = Flask(__name__)
