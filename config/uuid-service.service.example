@@ -1,0 +1,16 @@
+[Unit]
+Description=UUID Registry Service
+After=network.target
+
+[Service]
+User=www-data
+Group=www-data
+WorkingDirectory=/opt/uuid-service
+EnvironmentFile=/opt/uuid-service/uuid.env
+ExecStart=/opt/uuid-service/venv/bin/gunicorn -w 3 -b 127.0.0.1:8001 app.uuid_service:app
+Restart=always
+RestartSec=2
+UMask=0007
+
+[Install]
+WantedBy=multi-user.target

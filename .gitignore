@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# SQLite runtime files
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+
+# Secrets
+*.env
+uuid.env
+
+# OS
+.DS_Store
