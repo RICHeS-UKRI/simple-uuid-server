@@ -62,12 +62,12 @@ Visit:
 
 ---
 
-## Installation and Deployment
+## Documentation
 
-For full installation as a Linux service (systemd, permissions, reverse proxy),
-see:
+- **Installation and deployment**: [docs/INSTALL.md](docs/INSTALL.md)
+- **Using the service (API and workflows)**: [docs/USAGE.md](docs/USAGE.md)
 
-➡ **[docs/INSTALL.md](docs/INSTALL.md)**
+---
 
 ## Typical use case
 
