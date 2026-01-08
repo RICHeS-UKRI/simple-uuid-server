@@ -2,7 +2,8 @@ cff-version: 1.2.0
 title: "Simple UUID Server"
 message: >
   If you use this software in a research or infrastructure context,
-  please cite it using the information below.
+  please cite the Zenodo DOI associated with this release.
+  See CITATION.cff for full citation metadata.
 type: software
 
 authors:
