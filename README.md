@@ -1,5 +1,4 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18184853.svg)](https://doi.org/10.5281/zenodo.18184853)
----
 # Simple UUID Server
 
 A lightweight Python service for minting and retrieving **stable UUIDs** based on a
